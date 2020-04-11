@@ -71,7 +71,7 @@ sleep 1
 clear
 echo -e "\e[36m " 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" && sleep 0.3	
-toilet --filter metal 'GrootYT'  && sleep 0.3	
+toilet --filter metal 'SOUMEN'  && sleep 0.3	
 echo -e "\e[34m                     [V1.0] " && echo -e "\e[36m " 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" && sleep 0.3	
 echo -e "\e[34m [Select Your Pubg] "
